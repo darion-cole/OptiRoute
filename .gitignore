@@ -1,0 +1,5 @@
+# Your personal settings (IPs, MACs, PPPoE password) - never commit
+config.env
+*.tar.gz
+*.img
+*.img.gz
