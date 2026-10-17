@@ -1,4 +1,6 @@
-# OptiRoute
+<p align="center">
+  <img src="assets/optiroute-logo-dark.png" alt="OptiRoute: low-latency OpenWrt for gaming" width="720">
+</p>
 
 A one-shot installer that turns a fresh OpenWrt install on an x86 mini PC into a low-latency gaming router.
 
